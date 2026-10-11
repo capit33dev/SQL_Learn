@@ -1,0 +1,18 @@
+services:
+  sqlproject-app:
+    build:
+      context: .
+      target: final
+    container_name: sqlproject-app
+    ports:
+      - "${APP_PORT}:8080"
+    environment:
+      ASPNETCORE_URLS: "http://+:8080"
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ConnectionStrings__DvdRentalPostgresConnection: "Host=${DB_HOST};Port=${DB_PORT};Database=${DB_NAME};Username=${DB_USER};Password=${DB_PASSWORD}"
+    networks:
+      - my-net
+
+networks:
+  my-net:
+    external: true

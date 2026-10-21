@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Project\\SQL Learn\\SqlProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql learn\\sqlproject\\bll\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|solutionrelative:bll\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql learn\\sqlproject\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestManager.cs",
+              "DocumentMoniker": "D:\\Project\\SQL Learn\\SqlProject\\BLL\\TestManager.cs",
+              "RelativeDocumentMoniker": "BLL\\TestManager.cs",
+              "ToolTip": "D:\\Project\\SQL Learn\\SqlProject\\BLL\\TestManager.cs",
+              "RelativeToolTip": "BLL\\TestManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T10:49:07.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "D:\\Project\\SQL Learn\\SqlProject\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",

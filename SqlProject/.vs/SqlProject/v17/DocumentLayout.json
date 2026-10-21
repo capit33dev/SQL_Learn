@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\SQL Learn\\SqlProject\\",
+  "WorkspaceRootPath": "D:\\Project\\SQL_Learn\\SqlProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql learn\\sqlproject\\bll\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql_learn\\sqlproject\\dal\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|solutionrelative:dal\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql_learn\\sqlproject\\bll\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|solutionrelative:bll\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql learn\\sqlproject\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|d:\\project\\sql_learn\\sqlproject\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FDA2395-9D58-4EA8-A883-37BA5D13B157}|SqlProject.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 362,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "D:\\Project\\SQL_Learn\\SqlProject\\DAL\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ActorRepository.cs",
+              "ToolTip": "D:\\Project\\SQL_Learn\\SqlProject\\DAL\\ActorRepository.cs",
+              "RelativeToolTip": "DAL\\ActorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:46.452Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -94,29 +111,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestManager.cs",
-              "DocumentMoniker": "D:\\Project\\SQL Learn\\SqlProject\\BLL\\TestManager.cs",
+              "DocumentMoniker": "D:\\Project\\SQL_Learn\\SqlProject\\BLL\\TestManager.cs",
               "RelativeDocumentMoniker": "BLL\\TestManager.cs",
-              "ToolTip": "D:\\Project\\SQL Learn\\SqlProject\\BLL\\TestManager.cs",
+              "ToolTip": "D:\\Project\\SQL_Learn\\SqlProject\\BLL\\TestManager.cs",
               "RelativeToolTip": "BLL\\TestManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBsAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T10:49:07.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\Project\\SQL Learn\\SqlProject\\Controllers\\TestController.cs",
+              "DocumentMoniker": "D:\\Project\\SQL_Learn\\SqlProject\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestController.cs",
-              "ToolTip": "D:\\Project\\SQL Learn\\SqlProject\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Project\\SQL_Learn\\SqlProject\\Controllers\\TestController.cs",
               "RelativeToolTip": "Controllers\\TestController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAywCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T10:48:24.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T10:48:24.59Z"
             }
           ]
         },
